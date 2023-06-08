@@ -1,5 +1,5 @@
 # BankFailedDashboard
-This dataset is provided by data.gov and it's related to bankfailed in UnitedState.The visualization of this dataset was bulid by Power BI
+
 This readme file will guide you through the process of visualizing the bank failure dataset with Power BI. Power BI is a powerful business analytics tool that allows users to analyze data and create interactive visualizations. The bank failure dataset is a collection of information about banks that have failed in the United States since 2000. With Power BI, you can explore and analyze this data in a variety of ways.
 
 Prerequisites:
